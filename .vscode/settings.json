@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8ecc9d69-067d-4dee-8ee0-c766613b3cad/AppServices/subscriptions/8ecc9d69-067d-4dee-8ee0-c766613b3cad/resourceGroups/temps/providers/Microsoft.Web/sites/pythonxtg",
+    "appService.deploySubpath": "."
+}

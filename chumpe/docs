@@ -1,0 +1,6 @@
+KEY                  VALUE
+DATABASE_NAME:       <database>
+DATABASE_USER:       <dbuser>
+DATABASE_PASSWORD:   <dbpassword>
+DATABASE_HOST:       <host>
+DATABASE_PORT:       <port>
